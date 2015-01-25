@@ -5,8 +5,8 @@ var AWS = require('aws-sdk');
  */
 
 AWS.config.update({
-  accessKeyId: 'aFSoSE4BY2yHGf3oDQXz',
-  secretAccessKey: 'WDjIV0nKThCjKmWFbfrsWqwLVrtB4lqgSLGt-evD'
+  accessKeyId: '123123123123123123',
+  secretAccessKey: 'jhhjkhjkkjh-evD'
 });
 
 //var host = 'test-tagger-app.objects.dreamhost.com';
